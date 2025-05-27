@@ -15,3 +15,5 @@ Permet la consultation, l’ajout et la recherche de clients, chambres, réserva
 
 ```bash
 streamlit run app.py
+
+"Ce projet a été généré par Ussama Uizg."
