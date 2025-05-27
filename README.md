@@ -1,4 +1,4 @@
-"Ce projet a été généré par Ussama Uizg."
+"Ce projet a été généré par Ussama Bizg."
 # Projet de gestion d'hôtel
 
 Application web développée en Python avec Streamlit et SQLite.  
