@@ -1,3 +1,4 @@
+"Ce projet a été généré par Ussama Uizg."
 # Projet de gestion d'hôtel
 
 Application web développée en Python avec Streamlit et SQLite.  
@@ -16,4 +17,4 @@ Permet la consultation, l’ajout et la recherche de clients, chambres, réserva
 ```bash
 streamlit run app.py
 
-"Ce projet a été généré par Ussama Uizg."
+
